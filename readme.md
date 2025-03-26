@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project focuses on assessing the risk of nodes in a power communication network based on the topological
+The project focuses on assessing the risk of nodes in a power communication network based on the topological
 correlation of multivariate spatiotemporal data.  
 Below are the model illustration:
 
